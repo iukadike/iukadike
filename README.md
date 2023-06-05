@@ -9,15 +9,15 @@
 Welcome to my page!
 
 My name is Ifeanyichukwu Ukadike, a Cybersecurity Engineer. I'm from Nigeria :nigeria: and currently residing in Lagos.
-<br>
 
+<br>
 
 ### :man_technologist: Bio
 ---
 - Pronouns: he/him :male_sign:
 - I'm looking to collaborate on cybersecurity projects.
-<br>
 
+<br>
 
 ### :computer: Programming Languages and Frameworks
 ---
@@ -29,8 +29,8 @@ I have worked with the following languages and frameworks
 ![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-<br>
 
+<br>
 
 ### :o: Where to find me
 ---
