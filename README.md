@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://i.gifer.com/JXA0.gif" align='center'>
+    <img src="https://github.com/iukadike/iukadike/blob/main/JXA0.gif">
 </p>
 
 <h3 align='center'> Hello, friend! 👋</h3>
