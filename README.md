@@ -8,7 +8,7 @@
 
 Welcome to my page!
 
-My name is Ifeanyichukwu Ukadike, a Cybersecurity Engineer. I'm from Nigeria :nigeria: and currently residing in Lagos.
+My name is Ifeanyichukwu Ukadike, a Cybersecurity Engineer from Nigeria :nigeria:.
 
 <br>
 
