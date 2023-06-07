@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://github.com/iukadike/iukadike/blob/main/5TMy.gif">
+    <img src="https://github.com/iukadike/iukadike/blob/main/5TMy.gif" height="50%">
 </p>
 
 <h3 align='center'> Hello, friend! 👋</h3>
