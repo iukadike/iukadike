@@ -1,26 +1,12 @@
-<p align='center'>
-    <img src="https://github.com/iukadike/iukadike/blob/main/5TMy.gif" width="70">
-</p>
-
 <h3 align='center'> Hello, friend! 👋</h3>
 
----
-
-Welcome to my page!
-
+#### :man: Bio
 My name is Ifeanyichukwu Ukadike, a Cybersecurity Engineer from Nigeria :nigeria:.
-
-<br>
-
-### :man_technologist: Bio
----
 - Pronouns: he/him :male_sign:
 - I'm looking to collaborate on cybersecurity projects.
+___
 
-<br>
-
-### :computer: Programming Languages and Frameworks
----
+#### :computer: Programming Languages and Frameworks
 I have worked with the following languages and frameworks
 
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -29,11 +15,9 @@ I have worked with the following languages and frameworks
 ![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+___
 
-<br>
-
-### :o: Where to find me
----
+#### :globe_with_meridians: You can find me on
 <a href='https://www.linkedin.com/in/ifeanyiukadike'>![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white "Linkedin")</a>
 <a href='https://github.com/iukadike'>![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white "Github")</a>
 <a href='https://iukadike.github.io'>![Blog](https://img.shields.io/badge/iukadike.github.io-685EA9?style=for-the-badge&logo=&logoColor=white)
