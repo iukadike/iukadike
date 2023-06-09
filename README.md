@@ -9,18 +9,18 @@ ___
 #### :computer: Programming Languages and Frameworks
 I have worked with the following languages and frameworks
 
-![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![c](https://img.shields.io/badge/C-07405E?style=for-the-badge&logo=c&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-07405E?style=for-the-badge&logo=css3&logoColor=white)
+![html](https://img.shields.io/badge/HTML5-07405E?style=for-the-badge&logo=html5&logoColor=white)
+![flask](https://img.shields.io/badge/Flask-07405E?style=for-the-badge&logo=flask&logoColor=white)
+![python](https://img.shields.io/badge/Python-07405E?style=for-the-badge&logo=python&logoColor=white)
 ![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ___
 
 #### :globe_with_meridians: You can find me on
-<a href='https://www.linkedin.com/in/ifeanyiukadike'>![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white "Linkedin")</a>
-<a href='https://github.com/iukadike'>![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white "Github")</a>
-<a href='https://iukadike.github.io'>![Blog](https://img.shields.io/badge/iukadike.github.io-685EA9?style=for-the-badge&logo=&logoColor=white)
+<a href='https://www.linkedin.com/in/ifeanyiukadike'>![Linkedin](https://img.shields.io/badge/linkedin%20-07405E.svg?&style=for-the-badge&logo=linkedin&logoColor=white "Linkedin")</a>
+<a href='https://github.com/iukadike'>![Github](https://img.shields.io/badge/GitHub-07405E?style=for-the-badge&logo=github&logoColor=white "Github")</a>
+<a href='https://iukadike.github.io'>![Blog](https://img.shields.io/badge/website-07405E?style=for-the-badge&logo=About.me&logoColor=white "Website")</a>
 
 
 <!--
